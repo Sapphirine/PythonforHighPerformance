@@ -1,2 +1,2 @@
-# PythonforHighPerformance
-We analyze various approaches to improve the performance of Python for Graphical Analytics.
+# HighPerformance_GraphAnalytics
+Python for High Performance Graph Analytics
